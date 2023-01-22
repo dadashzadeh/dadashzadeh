@@ -51,15 +51,4 @@ I am trying to improve and stay current in NLP and SEO
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=dadashzadeh&&style=flat-square)  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
