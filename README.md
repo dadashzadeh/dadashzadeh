@@ -26,7 +26,8 @@ I am trying to improve and stay current in NLP and SEO
 
 <img src="https://github-readme-stats.vercel.app/api?username=dadashzadeh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><br/><td valign="top" width="40%">
+</td>
+<td width="30%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadashzadeh&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
